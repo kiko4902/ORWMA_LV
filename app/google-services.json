@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086293233830",
+    "project_id": "ormwalv8-dzoic",
+    "storage_bucket": "ormwalv8-dzoic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086293233830:android:d5672f20d97cdf9d352467",
+        "android_client_info": {
+          "package_name": "hr.ferit.kristiandzoic.lv5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFaMxx1GrKbtOcUKqYfAa5FUx3nvYrOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
